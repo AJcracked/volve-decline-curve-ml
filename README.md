@@ -46,11 +46,9 @@ As a petroleum engineer transitioning into data science, this project is deliber
 
 ## Tools Used
 
-Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, SciPy (`curve\\\_fit` for Arps fitting)
+Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, SciPy (`curve_fit` for Arps fitting)
 
 ## Files
 
-* `volve\\\_decline\\\_curve\\\_analysis.ipynb` — full analysis notebook
-
-
+* `volve_decline_curve_analysis.ipynb` — full analysis notebook
 
